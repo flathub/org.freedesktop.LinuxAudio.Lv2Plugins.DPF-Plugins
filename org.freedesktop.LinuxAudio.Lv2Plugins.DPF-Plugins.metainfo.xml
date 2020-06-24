@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component type="addon">
   <id>org.freedesktop.LinuxAudio.Lv2Plugins.DPF-Plugins</id>
-  <extends>org.freedesktop.LinuxAudio.BaseExtension.desktop</extends>
+  <extends>org.freedesktop.LinuxAudio.BaseExtension</extends>
   <name>DPF Plugins</name>
   <summary>DPF Plugins LV2</summary>
   <url type="homepage">https://distrho.sourceforge.io/plugins</url>
